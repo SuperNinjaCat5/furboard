@@ -21,3 +21,21 @@ Image of schematic so far:
 ![Screenshot 2025-10-04 183525.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDI5LCJwdXIiOiJibG9iX2lkIn19--1b3b2f7573511f92a9eab179cfe2863334aa9963/Screenshot%202025-10-04%20183525.png)
   
 
+## 10/11/2025 - Add flash storage, timer, and started pinout on schematic  
+
+### Progress so far
+
+I kept following the guide over a few days, and was able to keep adding onto the schematic. I added the flash storage and the crystal timer. If my understanding is correct the buttons should allow for flash mode. It was helpful because I never understood how bootsel worked.
+
+### I just started adding the pinout:
+
+![Screenshot 2025-10-11 195150.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTcwNCwicHVyIjoiYmxvYl9pZCJ9fQ==--40701afa2bf1a3ef1436128107129097a1c53e45/Screenshot%202025-10-11%20195150.png)
+
+I also wasted a lot of time adding GPIO global labels by hand instead of copy pasting them. 
+
+### This is the schematic so far:
+
+![Screenshot 2025-10-11 195143.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTcwNSwicHVyIjoiYmxvYl9pZCJ9fQ==--594e5434ca26205a1a39eba45b822947a307c7c2/Screenshot%202025-10-11%20195143.png)
+
+_i love markdown_  
+
