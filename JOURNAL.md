@@ -21,7 +21,7 @@ Image of schematic so far:
 ![Screenshot 2025-10-04 183525.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDI5LCJwdXIiOiJibG9iX2lkIn19--1b3b2f7573511f92a9eab179cfe2863334aa9963/Screenshot%202025-10-04%20183525.png)
   
 
-## 10/11/2025 - Add flash storage, timer, and started pinout on schematic  
+## 10/11/2025 7 PM - Add flash storage, timer, and started pinout on schematic  
 
 ### Progress so far
 
@@ -38,4 +38,18 @@ I also wasted a lot of time adding GPIO global labels by hand instead of copy pa
 ![Screenshot 2025-10-11 195143.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTcwNSwicHVyIjoiYmxvYl9pZCJ9fQ==--594e5434ca26205a1a39eba45b822947a307c7c2/Screenshot%202025-10-11%20195143.png)
 
 _i love markdown_  
+
+## 10/11/2025 8 PM - Finished Schematic  
+
+### I finished the pinout!
+![Screenshot 2025-10-11 202819.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTcxNiwicHVyIjoiYmxvYl9pZCJ9fQ==--97c0273c5930a583d3a150a9798e0d0e9af90a9c/Screenshot%202025-10-11%20202819.png)
+
+### Other Progress:
+
+I also improved several thing that I did incorrectly at first. I used the Electrical Rules Checker to try to spot any issues in the schematic, I got serval but resolved them all by using the "Annotate Schematic" to fix my incorrect formatting. I also looked at bill of materials to see what I had used so far.
+
+Schematic so far:
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTcxNCwicHVyIjoiYmxvYl9pZCJ9fQ==--3cd82bc1b325705fa67742b05de30729133650b6/image.png)
+  
 
